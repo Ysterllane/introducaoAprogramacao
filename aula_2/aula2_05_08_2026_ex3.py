@@ -1,0 +1,4 @@
+base = int(input('Digite a base do retângulo: '))
+altura = int(input('Digite a altura do retângulo: '))
+area:int = base * altura
+print("A area da rotangulo é ",area)
