@@ -2,6 +2,7 @@ nome = input("Qual o seu nome? ")
 peso = float(input("Digite seu peso: "))
 altura = float(input("Digite a sua altura: "))
 imc:float = peso /(altura * altura)
+#imc:float = peso /(altura **2)
 
 print ("Olá, ", nome, "Seu peso é: ", peso, "Sua altura é: ", altura, "e seu IMC é: ", imc)
 
