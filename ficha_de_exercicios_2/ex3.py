@@ -12,4 +12,7 @@ for preco in precos:
 
 for i in range(len(precos)):
     print(i, precos[i])
+
+for i in range(len(precos)):
+    print(precos[i])
     
