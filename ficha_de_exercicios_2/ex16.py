@@ -10,7 +10,9 @@ for i in range(3):
     elif i == 2:
         print("Acesso bloqueado.")
 
-        
+
+
+
 
 
 
